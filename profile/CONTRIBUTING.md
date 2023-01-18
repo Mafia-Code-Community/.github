@@ -13,8 +13,9 @@
 **Saran pesan commit**
 
 - `add:` untuk menambah informasi baru atau tambahan lainnya;
-- `update:` untuk mengubah informasi yang sudah ada atau memperbaiki;
+- `update:` untuk mengubah informasi yang sudah ada, improvement;
 - `delete:` untuk menghapus informasi yang sudah tidak relevan;
+- `fix:` untuk memperbaiki kesalahan/bug;
 
 Catatan: pesan commit harus menjelaskan perubahan secara singkat dan tidak lebih dari 50 karakter (spasi juga dihitung).
 
