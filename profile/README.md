@@ -31,4 +31,4 @@ Salah satu tujuan atau harapan untuk para member, selain mungkin nantinya bisa m
 
 ----
 
-* Bagi Kontributor harap memperhatikan **[Rules](/CONTRIBUTING.md)**
+* Bagi Kontributor harap memperhatikan **[Rules](CONTRIBUTING.md)**
