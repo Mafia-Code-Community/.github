@@ -6,7 +6,7 @@
   ```bash
   git checkout -b <branch_name>
   git add . # atau git add README.md
-  git commit -m "add: fitur ...."
+  git commit -m "add: feature ...."
   ```
 - Lakukan *push* ke *branch* kamu dan kemudian *open pull request*.
 
@@ -17,11 +17,11 @@
 - `delete:` untuk menghapus informasi yang sudah tidak relevan;
 - `fix:` untuk memperbaiki kesalahan/bug;
 
-Catatan: pesan commit harus menjelaskan perubahan secara singkat dan tidak lebih dari 50 karakter (spasi juga dihitung).
+Catatan: pesan commit menjelaskan perubahan secara singkat tapi jelas maksudnya.
 
 Contoh:
 - ❌ add: README.md
-- ✔️ add: menambahkan referensi kelas dasar HTML 5
+- ✔️ add: icon app in README.md
 
 Pull request akan di-*merge* jika:
 
