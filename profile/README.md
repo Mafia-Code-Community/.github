@@ -31,4 +31,5 @@ Salah satu tujuan atau harapan untuk para member, selain mungkin nantinya bisa m
 
 ----
 
-* Bagi Kontributor harap memperhatikan **[Rules](https://github.com/Mafia-Code-Community/.github/blob/main/profile/CONTRIBUTING.md)**
+- Bagi Kontributor harap memperhatikan **[`Rules`](https://github.com/Mafia-Code-Community/.github/blob/main/profile/CONTRIBUTING.md)**
+- Dokumentasi sistem kode nama repositori aplikasi dapat dilihat **[`disini`](https://github.com/Mafia-Code-Community/.github/blob/main/profile/REPO_NAMING.md)**
