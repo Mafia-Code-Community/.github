@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/banner-base-mcc.png" width={100%} >
+    <img src="https://github.com/Mafia-Code-Community/.github/blob/main/profile/assets/banner-base-mcc.png" width={100%} >
 </div>
 
 <h1 align="center">Mafia Code Community</h1>
