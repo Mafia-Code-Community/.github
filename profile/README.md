@@ -1,7 +1,11 @@
-# Mafia Code Community 
+<div align="center">
+    <img src="./assets/banner-base-mcc.png" width={100%} >
+</div>
+
+<h1 align="center">Mafia Code Community</h1>
 
 Komunitas yang bekerja sama membuat aplikasi startup berbasis SaaS (Software as a Service) sederhana dengan tujuan untuk meningkatkan softskill maupun hardskill dalam proses pengembangan. 
-Selain jadi penambah projek di Portofio, projeknya juga diusahakan agar dapat menghasilkan Cuan.
+Selain jadi penambah projek di Portofolio, projeknya juga diusahakan agar dapat menghasilkan Cuan.
 
 Aplikasi SaaS yang dimaksud secara khusus akan lebih kepada aplikasi web/mobile yang bersifat generator, langganan.
 
